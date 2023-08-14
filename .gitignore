@@ -106,7 +106,6 @@ package-lock.json
 # Strapi
 ############################
 
-.env
 license.txt
 exports
 *.cache
